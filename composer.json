@@ -1,5 +1,5 @@
 {
-    "name": "Shlappy/laravel-admin",
+    "name": "shlappy/laravel-admin",
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
